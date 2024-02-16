@@ -1,0 +1,4 @@
+D:\.NET Project\CodeMaster\CodeMaster.Core\obj\Debug\net8.0\CodeMaster.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Project\CodeMaster\CodeMaster.Core\obj\Debug\net8.0\CodeMaster.Core.AssemblyInfoInputs.cache
+D:\.NET Project\CodeMaster\CodeMaster.Core\obj\Debug\net8.0\CodeMaster.Core.AssemblyInfo.cs
+D:\.NET Project\CodeMaster\CodeMaster.Core\obj\Debug\net8.0\CodeMaster.Core.csproj.CoreCompileInputs.cache
