@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.NET Project\\CodeMaster\\CodeMaster.Utilities\\CodeMaster.Utilities.csproj": {}
+    "D:\\.NET Project\\CodeMasterRepo\\CodeMaster.Utilities\\CodeMaster.Utilities.csproj": {}
   },
   "projects": {
-    "D:\\.NET Project\\CodeMaster\\CodeMaster.Utilities\\CodeMaster.Utilities.csproj": {
+    "D:\\.NET Project\\CodeMasterRepo\\CodeMaster.Utilities\\CodeMaster.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NET Project\\CodeMaster\\CodeMaster.Utilities\\CodeMaster.Utilities.csproj",
+        "projectUniqueName": "D:\\.NET Project\\CodeMasterRepo\\CodeMaster.Utilities\\CodeMaster.Utilities.csproj",
         "projectName": "CodeMaster.Utilities",
-        "projectPath": "D:\\.NET Project\\CodeMaster\\CodeMaster.Utilities\\CodeMaster.Utilities.csproj",
+        "projectPath": "D:\\.NET Project\\CodeMasterRepo\\CodeMaster.Utilities\\CodeMaster.Utilities.csproj",
         "packagesPath": "C:\\Users\\giapp\\.nuget\\packages\\",
-        "outputPath": "D:\\.NET Project\\CodeMaster\\CodeMaster.Utilities\\obj\\",
+        "outputPath": "D:\\.NET Project\\CodeMasterRepo\\CodeMaster.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

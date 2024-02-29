@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o6YQB2X/gvg11fjCjWWFhVqVMWDLEX/whVc6ZzyLLTt6lKOo+94P6BGw9PCSXXi2LRBQS1dmjSmvTjuSWvqJjQ==",
+  "dgSpecHash": "W3BZTDsQukJWxNGHUkVog4XprMZIElM5TqaxOAbBG27R5+YRQiO2JbYct+Z3A+jbxwBzZ6vOR2ErDgVipoRbDQ==",
   "success": true,
-  "projectFilePath": "D:\\.NET Project\\CodeMaster\\CodeMaster.Utilities\\CodeMaster.Utilities.csproj",
+  "projectFilePath": "D:\\.NET Project\\CodeMasterRepo\\CodeMaster.Utilities\\CodeMaster.Utilities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

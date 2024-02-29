@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2w8MZ6BFGu83wmnJbzaOnXK0ctzXf2DucPgl5B+vq9x2ahzWPdQ2G6jz7yWVBxFjsCfI68KNsIkW3dpyX6KClA==",
+  "dgSpecHash": "3npV+1EivJgsXO0ti08C8+oRYk8l5yDlKlYf7xgc10pA7Mw9iALvfd3xUMIYx65PLAPrI5zwvN+ZlvUWDoCMGg==",
   "success": true,
-  "projectFilePath": "D:\\.NET Project\\CodeMaster\\CodeMaster.Core\\CodeMaster.Core.csproj",
+  "projectFilePath": "D:\\.NET Project\\CodeMasterRepo\\CodeMaster.Core\\CodeMaster.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\giapp\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\giapp\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.2\\microsoft.entityframeworkcore.8.0.2.nupkg.sha512",

@@ -596,11 +596,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.NET Project\\CodeMaster\\CodeMaster.Core\\CodeMaster.Core.csproj",
+      "projectUniqueName": "D:\\.NET Project\\CodeMasterRepo\\CodeMaster.Core\\CodeMaster.Core.csproj",
       "projectName": "CodeMaster.Core",
-      "projectPath": "D:\\.NET Project\\CodeMaster\\CodeMaster.Core\\CodeMaster.Core.csproj",
+      "projectPath": "D:\\.NET Project\\CodeMasterRepo\\CodeMaster.Core\\CodeMaster.Core.csproj",
       "packagesPath": "C:\\Users\\giapp\\.nuget\\packages\\",
-      "outputPath": "D:\\.NET Project\\CodeMaster\\CodeMaster.Core\\obj\\",
+      "outputPath": "D:\\.NET Project\\CodeMasterRepo\\CodeMaster.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
